@@ -10,4 +10,9 @@
   <li>JavaScript</li>
 </ul>
 
+---
+
+<h2> Visualização 👀 </h2>
+<img src="https://user-images.githubusercontent.com/106447484/202869025-67a463f1-c371-416b-87bd-d34501654c49.png"/>
+
  
